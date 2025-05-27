@@ -1,2 +1,2 @@
 # Aula Interface Netflix
-Aprendendo a criar interfaces em Kotlin
+Aprendendo a criar interfaces para Android
